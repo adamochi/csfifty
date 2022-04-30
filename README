@@ -1,2 +1,24 @@
 ASCII
 American Standard Code for Information Interchange
+
+
+Bits are used for binary
+
+64 32 16 8 4 2 1
+ 0  0  0 0 1 1 1 = 7
+
+ 1  0  0 0 0 0 1 = 75
+
+a byte is 8 bits
+
+unicode is used nowadays
+
+used to be 7bits
+
+rgb(128, 64, 37)
+every pixel is represented by numbers to make a color
+255 is 8bit color depthf
+1 1 1 1 1 1 1 1
+
+
+40min
